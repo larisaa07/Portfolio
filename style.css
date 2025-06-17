@@ -8,3 +8,22 @@
     background-color: #66587c;
     color: white;
 }
+
+.home{
+    background-image: url(imgs/portfolioCover.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.dishBday{
+    height:300px;
+}
+
+body{
+    background-color:rgb(189, 178, 196);
+}
+
+h1{
+    margin-bottom:50px;
+    height:20px;
+}
